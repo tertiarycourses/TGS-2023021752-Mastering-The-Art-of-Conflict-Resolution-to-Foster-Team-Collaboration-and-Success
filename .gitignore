@@ -1,0 +1,13 @@
+.env
+.claude/
+.DS_Store
+__pycache__/
+*.pyc
+assessment/
+reference/
+courseware/assets/
+courseware/build/
+courseware/qa/
+courseware/rendered/
+courseware/archive/
+activities/**/*.tmp
