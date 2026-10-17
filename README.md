@@ -2,6 +2,14 @@
 
 WSQ courseware for **TGS-2023021752**, aligned to the Conflict Management Technical Skill and Competency (RET-PMD-4001-1.1).
 
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2023021752` |
+| Programme | WSQ |
+| Duration | 2 days, 16 hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-mastering-the-art-of-conflict-resolution-to-foster-team-collaboration-and-success.html) |
+| Funding | Up to 70% SkillsFuture funding for eligible learners. Eligibility and terms apply. |
+
 ![Course cover](screenshot.png)
 
 ## Courseware
@@ -36,3 +44,11 @@ Learners will be able to:
 The cases are fictional workplace simulations. They are designed for learning and do not replace organisational policy, HR advice or legal advice.
 
 Course information: [Tertiary Courses](https://www.tertiarycourses.com.sg/wsq-mastering-the-art-of-conflict-resolution-to-foster-team-collaboration-and-success.html)
+
+## Distribution boundary
+
+The slides, Learner Guide, Lesson Plan and activities are published here. Assessment papers and answer keys (`assessment/`) and source references (`reference/`) are private and are never pushed to this repository.
+
+## Provider
+
+Developed and delivered by [Tertiary Infotech Academy Pte Ltd](https://www.tertiarycourses.com.sg/).
